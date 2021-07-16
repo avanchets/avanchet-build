@@ -10,7 +10,7 @@ tags = ["shortcodes", "privacy"]
   stretch = "Vertical"
 +++
 
-Hugo est livré avec plusieurs [Shortcodes intégrés] (https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes) pour un contenu riche, ainsi qu'une [Privacy Config] ( https://gohugo.io/about/hugo-and-gdpr/) et un ensemble de codes courts simples qui permettent des versions statiques et sans JS de diverses intégrations de médias sociaux.
+Hugo est livré avec plusieurs [Shortcodes intégrés](https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes) pour un contenu riche, ainsi qu'une [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) et un ensemble de codes courts simples qui permettent des versions statiques et sans JS de diverses intégrations de médias sociaux.
 <!--more-->
 ---
 

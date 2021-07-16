@@ -1,7 +1,7 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
 baseurl                 = "https://hugo-future-imperfect-slim.netlify.app/"
-DefaultContentLanguage  = "fr"
+DefaultContentLanguage  = "en"
 title                   = "Avanchets"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
@@ -38,7 +38,7 @@ disableLanguages        = []
   hideEmptyStats        = false
 
   [params.meta]
-    description         = "A theme by HTML5 UP, ported by Julio Pescador. Slimmed and enhanced by Patrick Collins. Multilingual by StatnMap. Powered by Hugo."
+    description         = "Site non-officiel de la cité des Avanchets"
     author              = "immes & niki"
     favicon             = false
     svg                 = true
@@ -49,8 +49,8 @@ disableLanguages        = []
   [params.header]
     navbarTitle         = "Avanchets"
     dynamicTitles       = true
-    searchMenu          = true
-    shareMenu           = true
+    searchMenu          = false
+    shareMenu           = false
     languageMenu        = true
 
   [params.intro]
@@ -68,7 +68,7 @@ disableLanguages        = []
       alt                 = "Avanchets areal view logo"
 
   [params.sidebar]
-    about               = "un site développé comme un outil d'apprentissage"
+    about               = "Site non-officiel de la cité des Avanchets"
     postAmount          = 5
     categories          = true
     categoriesByCount   = true

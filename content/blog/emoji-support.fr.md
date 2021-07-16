@@ -5,7 +5,7 @@ author = "Hugo Auteurs"
 date = "2019-03-05"
 tags = ["emoji"]
 [[images]]
-  src = "img/2019/03/pic02.jpg"
+  src = "img/2021/rainy-hoops.jpg"
   alt = "Desert Scene"
   stretch = "stretchH"
 +++

@@ -6,11 +6,11 @@ date = "2019-03-11"
 tags = ["markdown", "css", "html", "themes"]
 categories = ["themes", "syntax"]
 [[images]]
-  src = "img/2019/03/pic01.jpg"
-  alt = "Mountain Range Through Clouds"
-  stretch = "horizontal"
+  src = "img/2021/concrete-mvq.jpg"
+  alt = "concrete mq"
+  stretch = "vertical"
 [[images]]
-  src = "img/2019/03/pic02.jpg"
+  src = "img/2021/jpg"
   alt = "Desert Scene"
 [[images]]
   src = "img/2019/03/pic03.jpg"

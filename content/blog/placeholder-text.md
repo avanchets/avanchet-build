@@ -5,9 +5,9 @@ author = "Hugo Authors"
 date = "2019-03-09"
 tags = ["markdown", "text"]
 [[images]]
-  src = "img/2019/03/pic03.jpg"
+  src = "img/2021/rusted-pipe.jpg"
   alt = "Valley"
-  stretch = "horizontal"
+  stretch = "vertical"
 +++
 
 Lorem est tota propiore conpellat pectoribus de

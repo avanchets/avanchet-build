@@ -1,7 +1,7 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
 baseurl                 = "https://hugo-future-imperfect-slim.netlify.app/"
-DefaultContentLanguage  = "en"
+DefaultContentLanguage  = "fr"
 title                   = "Avanchets"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
@@ -65,10 +65,10 @@ disableLanguages        = []
       src                 = "img/main/logo.jpg"
       shape               = "triangle"
       width               = ""
-      alt                 = "Hugo Future Imperfect Slim"
+      alt                 = "Avanchets areal view logo"
 
   [params.sidebar]
-    about               = "This theme was developed for Hugo static site generator."
+    about               = "un site développé comme un outil d'apprentissage"
     postAmount          = 5
     categories          = true
     categoriesByCount   = true

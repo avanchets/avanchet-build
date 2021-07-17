@@ -4,7 +4,7 @@ description = "test"
 author = "immes"
 date = "2021-07-16"
 tags = ["markdown", "css", "html", "themes"]
-categories = ["themes", "syntax"]
+categories = ["misc"]
 [[images]]
   src = "img/2021/mq-garden.jpg"
   alt = "concrete mq"

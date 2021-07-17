@@ -4,6 +4,7 @@ description = "A brief description of Hugo Shortcodes"
 author = "Hugo Authors"
 date = "2019-03-10"
 tags = ["shortcodes", "privacy"]
+categories = ["thème"]
 [[images]]
   src = "img/2021/colour-block.jpg"
   alt = "colour block"

@@ -4,6 +4,7 @@ description = "Lorem Ipsum Dolor Si Amet"
 author = "Hugo Authors"
 date = "2019-03-09"
 tags = ["markdown", "text"]
+categories = ["thème"]
 [[images]]
   src = "img/2021/rusted-pipe.jpg"
   alt = "Valley"

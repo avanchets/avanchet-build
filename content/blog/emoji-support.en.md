@@ -4,6 +4,7 @@ description = "Guide to emoji usage in Hugo"
 author = "Hugo Authors"
 date = "2019-03-05"
 tags = ["emoji"]
+categories = ["thème"]
 [[images]]
   src = "img/2021/rainy-hoops.jpg"
   alt = "Desert Scene"

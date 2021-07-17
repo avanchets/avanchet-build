@@ -4,11 +4,11 @@ description = "Exemple d'article présentant la syntaxe et le formatage de base 
 author = "Hugo Auteurs"
 date = "2019-03-11"
 tags = ["markdown", "css", "html", "themes"]
-categories = ["themes", "syntax"]
+categories = ["thème"]
 [[images]]
   src = "img/2021/concrete-mvq.jpg"
   alt = "Mountain Range Through Clouds"
-  stretch = "horizontal"
+  stretch = "vertical"
 [[images]]
   src = "img/2019/03/pic02.jpg"
   alt = "Desert Scene"

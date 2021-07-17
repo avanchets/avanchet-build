@@ -1,7 +1,7 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
 baseurl                 = "https://avanchets.github.io/"
-DefaultContentLanguage  = "en"
+DefaultContentLanguage  = "fr"
 title                   = "Avanchets"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 4
@@ -69,7 +69,7 @@ disableLanguages        = []
 
   [params.sidebar]
     about               = "Site non-officiel de la cité des Avanchets"
-    postAmount          = 5
+    postAmount          = 3
     categories          = true
     categoriesByCount   = true
 
@@ -100,14 +100,14 @@ disableLanguages        = []
 [menu]
 
   [[menu.main]]
-    name              = "Home"
+    name              = "Accueil"
     identifier        = "home"
     url               = ""
     pre               = "<i class='fa fa-home'></i>"
     weight            = 1
 
   [[menu.main]]
-    name              = "About"
+    name              = "A Propos"
     identifier        = "about"
     url               = "about"
     pre               = "<i class='far fa-id-card'></i>"
@@ -121,7 +121,7 @@ disableLanguages        = []
     weight            = 3
 
   [[menu.main]]
-    name              = "Categories"
+    name              = "Catégories"
     identifier        = "categories"
     url               = "categories"
     pre               = "<i class='fas fa-sitemap'></i>"
@@ -136,57 +136,52 @@ disableLanguages        = []
 
 [Languages]
 
-  [Languages.en]
-    LanguageCode        = "en"
-    LanguageName        = "English"
-    weight              = 1
-
   [Languages.fr]
     LanguageCode        = "fr"
     LanguageName        = "Français"
+    weight              = 1
+
+  [Languages.en]
+    LanguageCode        = "en"
+    LanguageName        = "English"
     title               = "Hugo Future Imperfect Slim en français"
     description         = "Un thème par HTML5 UP, porté par Julio Pescador. Simplifié et amélioré par Patrick Collins. Multilingue par StatnMap. Propulsé par Hugo."
     weight              = 2
 
-    [[Languages.fr.menu.main]]
-      name              = "Accueil"
+    [[Languages.en.menu.main]]
+      name              = "Home"
       identifier        = "home"
       url               = ""
       pre               = "<i class='fas fa-home'></i>"
       weight            = 1
 
-    [[Languages.fr.menu.main]]
-      name              = "A Propos"
+    [[Languages.en.menu.main]]
+      name              = "About"
       identifier        = "about"
       url               = "about"
       pre               = "<i class='far fa-id-card'></i>"
       weight            = 2
 
-    [[Languages.fr.menu.main]]
+    [[Languages.en.menu.main]]
       name              = "Blog"
       identifier        = "blog"
       url               = "blog"
       pre               = "<i class='far fa-newspaper'></i>"
       weight            = 3
 
-    [[Languages.fr.menu.main]]
-      name              = "Catégories"
+    [[Languages.en.menu.main]]
+      name              = "Categories"
       identifier        = "categories"
       url               = "categories"
       pre               = "<i class='fas fa-sitemap'></i>"
       weight            = 5
 
-    [[Languages.fr.menu.main]]
+    [[Languages.en.menu.main]]
       name              = "Contact"
       identifier        = "contact"
       url               = "contact"
       pre               = "<i class='far fa-envelope'></i>"
       weight            = 6
-
-  [Languages.de]
-    LanguageCode        = "de"
-    LanguageName        = "Deutsche"
-    weight              = 5
 
 [social]
   # Coding Communities

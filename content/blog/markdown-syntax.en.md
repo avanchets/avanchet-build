@@ -4,7 +4,7 @@ description = "Sample article showcasing basic Markdown syntax and formatting fo
 author = "Hugo Authors"
 date = "2019-03-11"
 tags = ["markdown", "css", "html", "themes"]
-categories = ["themes", "syntax"]
+categories = ["thème"]
 [[images]]
   src = "img/2021/concrete-mvq.jpg"
   alt = "concrete mq"
